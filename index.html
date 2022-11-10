@@ -341,22 +341,26 @@
               <br>
               <br>
               <br>
-              <form class="form">
+              <form class="form" action="mailto:lnder11@icloud.com" method="post" enctype="text/plain">
                 <div class="form-body">
                   <div class="row">
                     <div class="input-group">
-                      <label>Nome Completo(Obrigatório) </label>
-                      <input type="text" placholder="Enter your first name">
+                      <label for="FirstName">FirstName</label>
+                      <input type="text" name="FirstName" placholder="Enter your first name">
                     </div>
                     <div class="input-group">
-                      <label>Email</label>
-                      <input type="email" placholder="Enter your last name">
+                      <label for="Email">Email</label>
+                      <input type="text" name="Email" placholder="Enter your email">
+                    </div>
+                    <div class="input-group">
+                      <label for="Subject">Subject</label>
+                      <input type="text" name="Subject" placholder="Enter your subject">
                     </div>
                   </div>
                   <div class="row">
                     <div class="input-group">
-                      <label for="">Mensagem</label>
-                      <textarea> </textarea>
+                      <label for="message">Mensagem</label>
+                      <textarea type="text" name="message"> </textarea>
                     </div>
                   </div>
                   <div class="form-footer">
