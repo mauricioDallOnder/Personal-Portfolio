@@ -1,26 +1,26 @@
-# # Portifólio
+# # Personal Portfolio
 
 
 <img src="https://img.shields.io/badge/build-passing-brightgreen"/>
 
-- Portifólio Pessoal feito em HTML e CSS e Javascript
+- Personal Portfolio made in HTML and CSS and Javascript
 
 
 
-## 💻 Sobre esse projeto
-🚀 Projeto escrito em Html CSS e Javascript desenvolvido através do figma para a apresentação do portifólio pessoal
+## 💻 About this project
+🚀 Project written in Html CSS and Javascript developed through figma for the presentation of the personal portfolio
 
-## ⚙️ Funcionalidades
-- Exibição do curriculo, sidebar fecha e abre ao clique do usuário,responsivo.
+## ⚙️ Functionalities
+- Curriculum display, sidebar closes and opens to user click, responsive.
 
 ## 🎨 Layout
--Para o Layout foi utilizado o figma.
+-For the layout, figma was used.
 
-## 🛠 Tecnologias
+## 🛠 technologies
 - HTML CSS Javascript
 
-## 💪 Como contribuir para o projeto
-- Deixe seus comentarios de feedback para que o projeto seja melhorado.
+## 💪 How to contribute to the project
+- Leave your feedback comments for the project to be improved.
 
-## 🦸 Autor
+## 🦸 Author
 -Mauricio Dall Onder
