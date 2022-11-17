@@ -1403,7 +1403,7 @@ Configuraçoes gerais  da pagina
   }
   
   
-  @media screen and (max-width: 720px) {
+  @media screen and (max-width: 500px) {
   
     .bola-amarela,
     .bola-verde,
